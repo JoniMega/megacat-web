@@ -20,10 +20,9 @@ Es pot utilitzar la pàgina web del servidor per tal accedir a una versió web d
 
 Enllaç ràpid:
 
-[Link button](http://vanilla.megacat.cat){: .btn }
+[Enllaç cap al mapa](http://vanilla.megacat.cat){: .btn }
 
+## Enllaç Visual
 
-```javascript
-const content_to_merge = [docs[i].content, docs[i].myusage, docs[i].myexamples];
-docs[i].content = content_to_merge.join(' ');
-```
+![](http://vanilla.megacat.cat)
+
