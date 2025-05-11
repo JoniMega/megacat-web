@@ -1,10 +1,8 @@
 ---
-title: Home
-layout: home
-nav_order: 1
-description: "Servidor Vainilla"
-permalink: /
+title: Mapaweb
+nav_order: 8
 ---
+
 # Mapaweb
 {: .no_toc }
 
@@ -27,3 +25,4 @@ Enllaç ràpid:
 ## Enllaç Visual
 
 ![](http://vanilla.megacat.cat)
+
