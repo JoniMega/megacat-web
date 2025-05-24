@@ -18,6 +18,6 @@ El servidor Vanilla és un servidor normal de Minecraft amb mínimes modificacio
 
 No necessites pas cap mod. Per poder-hi accedir només necessites col·locar l'adreça del servidor i entrar.
 
-{: .highlight }
+{: .highlight .flex-justify-between}
 vanilla.megacat.cat
-{: .fs-10 .flex-justify-between}
+{: .fs-10}
