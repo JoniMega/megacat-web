@@ -7,10 +7,7 @@ En desenvolupament
 {: .label .label-yellow .float-right }
 # Servidor Create
 
-En desenvolupament 
-{: .label .label-yellow .float-right }
-
-
+A veure com podem solucionar aquests problemes
 
 
 En construcció

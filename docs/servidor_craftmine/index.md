@@ -3,9 +3,10 @@ title: Servidor CraftMine
 nav_order: 4
 ---
 
-# Servidor Experimental
 Inactiu 
-{: .label .label-red }
+{: .label .label-red .float-right }
+# Servidor Experimental
+
 
 Aquest servidor es va crear experimentalment el 6 d'abril del 2025 i va estar actiu durants uns 5 dies. _Actualment el servidor està inactiu, sense expectatives de tornar-lo a engegar._
 
