@@ -1,17 +1,12 @@
 ---
-title: Manual d'instalacio de mods
+title: Mapaweb
 parent: Servidor Create
-nav_order: 5
+nav_order: 6
 ---
 
 # Mapaweb
-{: .no_toc }
 
-## Taula de continguts
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
+En construcció
 
 ---
 
@@ -23,7 +18,4 @@ Enllaç ràpid:
 
 [Enllaç cap al mapa](http://vanilla.megacat.cat){: .btn }
 
-## Enllaç Visual
-
-![](http://vanilla.megacat.cat)
 
