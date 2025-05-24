@@ -1,6 +1,7 @@
 ---
 title: Servidor Vanilla
-nav_order: 3
+parent: Servidor Vanilla
+nav_order: 2
 ---
 
 # Servidor Vanilla

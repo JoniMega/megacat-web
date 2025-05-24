@@ -1,6 +1,7 @@
 ---
 title: Mapaweb
-nav_order: 8
+parent: Servidor Vanilla
+nav_order: 3
 ---
 
 # Mapaweb
