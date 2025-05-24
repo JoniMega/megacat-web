@@ -5,7 +5,7 @@ nav_order: 2
 
 # Servidor Vanilla 
 Actiu 
-{: .label .label-green .fs-4}
+{: .label .label-green .fs-8}
 
 El servidor Vanilla és un servidor normal de Minecraft amb mínimes modificacions en la generació del món i de mecàniques.
 
@@ -18,5 +18,6 @@ El servidor Vanilla és un servidor normal de Minecraft amb mínimes modificacio
 
 No necessites pas cap mod. Per poder-hi accedir només necessites col·locar l'adreça del servidor i entrar.
 
+{: .highlight }
 vanilla.megacat.cat
-{: .fs-10 }
+{: .fs-10 .flex-justify-between}
