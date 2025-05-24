@@ -21,4 +21,4 @@ No necessites pas cap mod. Per poder-hi accedir només necessites col·locar l'a
 {: .highlight .float-center}
 vanilla.megacat.cat
 {: .fs-10}
-![](entrada_mapaweb.png)
+![](entrada_servidor.png)
