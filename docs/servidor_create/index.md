@@ -5,10 +5,11 @@ nav_order: 3
 
 # Servidor Create
 En desenvolupament 
-{: .label .label-yellow }
+{: .label .label-yellow .float-left }
 
-En construcció
-{: .float-left }
+
+
+
 
 En construcció
 {: .float-right }
@@ -24,3 +25,6 @@ En construcció
 
 En construcció
 {: .flex-justify-around }
+
+En construcció
+{: .float-left }
