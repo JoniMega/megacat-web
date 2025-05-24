@@ -17,7 +17,7 @@ title: MegaCat
 description: Pàgina web del servidor MegaCat
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "web.megacat.cat" # the base hostname & protocol for your site, e.g. http://example.com
-repository: just-the-docs/just-the-docs # for github-metadata
+repository: JoniMega/megacat-web # for github-metadata
 
 permalink: pretty
 
@@ -126,7 +126,7 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # External navigation links
 nav_external_links:
-  - title: Just the Docs on GitHub
+  - title: Just the Docs a GitHub
     url: https://github.com/just-the-docs/just-the-docs
 
 # Show navigation error report
@@ -141,9 +141,9 @@ liquid:
 
 # Back to top link
 back_to_top: true
-back_to_top_text: "Back to top"
+back_to_top_text: "Cap al principi"
 
-footer_content: 'Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href="https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt">MIT license.</a> <a href="https://www.netlify.com/">This site is powered by Netlify.</a>'
+footer_content: 'MegaCat - Promou, parla i juga en català'
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
@@ -151,8 +151,8 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/just-the-docs/just-the-docs" # the github URL for your repo
+gh_edit_link_text: "Editar aquesta pàgina"
+gh_edit_repository: "https://github.com/JoniMega/megacat-web" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
