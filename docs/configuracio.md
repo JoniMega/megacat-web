@@ -1,5 +1,5 @@
 ---
-title: Configuration
+title: Configuració
 nav_order: 2
 ---
 

@@ -1,10 +1,9 @@
 ---
-layout: minimal
-title: Minimal layout test
-nav_exclude: true
+title: Servidor Mods
+nav_order: 4
 ---
 
-# Minimal Layout Test Page
+# Servidor Mods
 
 [Return to main website]({{site.baseurl}}/).
 
