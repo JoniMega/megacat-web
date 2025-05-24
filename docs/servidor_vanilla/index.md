@@ -4,7 +4,8 @@ nav_order: 2
 ---
 
 # Servidor Vanilla 
-Actiu {: .label .label-green }
+Actiu 
+{: .label .label-green }
 
 El servidor Vanilla és un servidor normal de Minecraft amb mínimes modificacions en la generació del món i de mecàniques.
 
