@@ -1,6 +1,5 @@
 ---
 title: Servidor Vanilla
-parent: Servidor Vanilla
 nav_order: 2
 ---
 
