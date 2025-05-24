@@ -3,10 +3,12 @@ title: Servidor Create
 nav_order: 3
 ---
 
-# Servidor Create
 En desenvolupament 
-{: .label .label-yellow .float-left }
+{: .label .label-yellow .float-right }
+# Servidor Create
 
+En desenvolupament 
+{: .label .label-yellow .float-right }
 
 
 
