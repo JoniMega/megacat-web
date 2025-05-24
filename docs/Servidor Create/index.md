@@ -1,6 +1,5 @@
 ---
-title: Servidor Mods
-parent: Servidor Create
+title: Servidor Create
 nav_order: 4
 ---
 
