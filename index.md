@@ -2,34 +2,35 @@
 title: Benvingut
 layout: home
 nav_order: 1
-description: "Servidor Vainilla"
+description: "Pàgina Principal"
 permalink: /
 ---
 # MegaCat
 {: .no_toc }
-
-## Taula de continguts
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 ---
 
 Benvingut a la pàgina web de MegaCat. 
+
+MegaCat ofereix servidors públics i semi-públics per la comunitat catalana, on la llengua principal d'ús usual als servidors és el Català.
 Aqui trobaras tota la informació de com accedir als diversos servidors de MegaCat i les instruccions de com instal·lar els mods necessaris o opcionals.
 
 ## Llistat de Servidors MegaCat
 
-1. Servidor Vanilla MegaCat
-    Servidor de Minecraft 
+Llistat de servidors que MegaCat gestiona i ofereix gratuïtament. 
+
+La categoria de Mods defineix si el servidor requereix tenir mods per tal accedir-hi. Servidors que es puguin accedir sense mods no necessariament implica que el servidor tingui internament mods per gestionar còpies de seguratat o com mods que puguin modificar la generació del món o mecàniques del joc.
 
 | Servidor                                                    | Versió         | Mods | Actiu |
 |:------------------------------------------------------------|:---------------|:-----|:------|
-| [Vanilla MegaCat]({{site.baseurl}}/docs/#servidor_vanilla)  | 1.21.1         |  ❌  |  ✅   |
-| [Create MegaCat]({{site.baseurl}}/docs/#servidor_mods)      | 1.21.1         |  ✅  |  ❌   |
+| [Vanilla MegaCat]({{site.baseurl}}/docs/servidor_vanilla.md)| 1.21.1         |  ❌  |  ✅   |
+| [Create MegaCat]({{site.baseurl}}/docs/servidor_mods.md)    | 1.21.1         |  ✅  |  ❌   |
 | CraftMine MegaCat                                           | 25w14craftmine |  ❌  |  ❌   |
 
 ## Llistat de Servidors Catalans externs
 
-TO-DO: Pendent de completar
+Llistat de servidors catalans extertens. MegaCat no gestiona cap d'ells, però volem igualment promocionar servidors catalans.
+
+| Servidor                                                    | Versió         | Mods | Actiu |
+|:------------------------------------------------------------|:---------------|:-----|:------|
+| [CubeCat](https://www.cubecat.cat)                          | 1.21.3         |  ❌  |  ✅   |
+
