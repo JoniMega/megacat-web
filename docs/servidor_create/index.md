@@ -8,3 +8,19 @@ En desenvolupament
 {: .label .label-yellow }
 
 En construcció
+{: .float-left }
+
+En construcció
+{: .float-right }
+
+En construcció
+{: .flex-justify-start }
+
+En construcció
+{: .flex-justify-end }
+
+En construcció
+{: .flex-justify-between }
+
+En construcció
+{: .flex-justify-around }
