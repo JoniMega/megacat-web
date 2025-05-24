@@ -24,7 +24,7 @@ La categoria de Mods defineix si el servidor requereix tenir mods per tal accedi
 |:------------------------------------------------------------|:---------------|:-----|:------|
 | [Vanilla]({{site.baseurl}}/docs/servidor_vanilla/)          | 1.21.1         |  ❌  |  ✅   |
 | [Create]({{site.baseurl}}/docs/servidor_create/)            | 1.21.1         |  ✅  |  ❌   |
-| CraftMine                                                   | 25w14craftmine |  ❌  |  ❌   |
+| [CraftMine]({{site.baseurl}}/docs/servidor_craftmine/)      | 25w14craftmine |  ❌  |  ❌   |
 
 ## Llistat de Servidors Catalans externs
 
