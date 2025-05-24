@@ -22,9 +22,9 @@ La categoria de Mods defineix si el servidor requereix tenir mods per tal accedi
 
 | Servidor                                                    | Versió         | Mods | Actiu |
 |:------------------------------------------------------------|:---------------|:-----|:------|
-| [Vanilla MegaCat]({{site.baseurl}}/docs/servidor_vanilla.md)| 1.21.1         |  ❌  |  ✅   |
-| [Create MegaCat]({{site.baseurl}}/docs/servidor_mods.md)    | 1.21.1         |  ✅  |  ❌   |
-| CraftMine MegaCat                                           | 25w14craftmine |  ❌  |  ❌   |
+| [Vanilla]({{site.baseurl}}/docs/servidor_vanilla.md)        | 1.21.1         |  ❌  |  ✅   |
+| [Create]({{site.baseurl}}/docs/servidor_mods.md)            | 1.21.1         |  ✅  |  ❌   |
+| CraftMine                                                   | 25w14craftmine |  ❌  |  ❌   |
 
 ## Llistat de Servidors Catalans externs
 
