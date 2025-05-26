@@ -9,10 +9,8 @@ permalink: /
 {: .no_toc }
 ---
 
-![](assets/images/Potion_of_Healing.png)
-{: float-right }
 
-Benvingut a la pàgina web de MegaCat. 
+Benvingut a la pàgina web de MegaCat. ![](assets/images/Potion_of_Healing.png)
 
 MegaCat ofereix servidors públics i semi-públics per la comunitat catalana, on la llengua principal d'ús usual als servidors és el Català.
 Aqui trobaras tota la informació de com accedir als diversos servidors de MegaCat i les instruccions de com instal·lar els mods necessaris o opcionals.
