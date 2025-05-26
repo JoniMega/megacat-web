@@ -11,14 +11,14 @@ permalink: /
 
 Benvingut a la pàgina web de MegaCat. 
 
-MegaCat ofereix servidors públics i semi-públics per la comunitat catalana, on la llengua principal d'ús usual als servidors és el Català.
-Aqui trobaras tota la informació de com accedir als diversos servidors de MegaCat i les instruccions de com instal·lar els mods necessaris o opcionals. 
+MegaCat ofereix servidors públics i semipúblics per la comunitat catalana, on la llengua principal d'ús usual als servidors és el Català.
+Aquí trobaràs tota la informació de com accedir als diversos servidors de MegaCat i les instruccions de com instal·lar els mods necessaris o opcionals. 
 
 ## Llistat de Servidors MegaCat
 
 Llistat de servidors que MegaCat gestiona i ofereix gratuïtament. 
 
-La categoria de Mods defineix si el servidor requereix tenir mods per tal accedir-hi. Servidors que es puguin accedir sense mods no necessariament implica que el servidor tingui internament mods per gestionar còpies de seguratat o com mods que puguin modificar la generació del món o mecàniques del joc.
+La categoria de Mods defineix si el servidor requereix tenir mods per tal accedir-hi. Servidors que es puguin accedir sense mods no necessàriament implica que el servidor tingui internament mods per gestionar còpies de seguretat o com mods que puguin modificar la generació del món o mecàniques del joc.
 
 | Servidor                                                    | Versió         | Mods | Actiu |
 |:------------------------------------------------------------|:---------------|:-----|:------|
@@ -28,7 +28,7 @@ La categoria de Mods defineix si el servidor requereix tenir mods per tal accedi
 
 ## Llistat de Servidors Catalans externs
 
-Llistat de servidors catalans extertens. MegaCat no gestiona cap d'ells, però volem igualment promocionar servidors catalans.
+Llistat de servidors catalans externs. MegaCat no gestiona cap d'ells, però volem igualment promocionar servidors catalans.
 
 | Servidor                                                    | Versió         | Mods | Actiu |
 |:------------------------------------------------------------|:---------------|:-----|:------|
