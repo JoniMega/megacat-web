@@ -14,7 +14,7 @@ El servidor Vanilla és un servidor normal de Minecraft amb mínimes modificacio
 - **Estructures Noves:** La generació del món és normal, però podràs trobar estructures noves. Les extructures generalment són decoratives i amb algun cofre amb recursos.
 - **Mort indulgent:** La mort perds els objectes i experiència, però mantens l'armadura i eines que tinguis a la barra d'inventari de mà. 
 
-## Normes i Manuels
-
-[Normes](normes.md){: .btn .btn-green } [Com accedir al Servidor](acces.md){: .btn .btn-green } [Mapaweb](mapaweb.md){: .btn .btn-green }
+{: .no_toc }
+---
+[Normes](normes.md){: .btn .btn-green } [Com accedir al Servidor](acces.md){: .btn .btn-blue } [Mapaweb](mapaweb.md){: .btn .btn-red }
 
