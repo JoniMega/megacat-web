@@ -9,8 +9,8 @@ permalink: /
 {: .no_toc }
 ---
 
-{: float-right }
 ![](assets/images/Potion_of_Healing.png)
+{: float-right }
 
 Benvingut a la pàgina web de MegaCat. 
 
