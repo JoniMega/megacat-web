@@ -9,7 +9,7 @@ Actiu
 
 ---
 El servidor Vanilla és un servidor normal de Minecraft amb mínimes modificacions en la generació del món i de mecàniques.
----
+
 
 | Servidor Vanilla      |               |
 |:----------------------|:--------------|
