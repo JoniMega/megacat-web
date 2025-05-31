@@ -12,7 +12,7 @@ El servidor Vanilla és un servidor normal de Minecraft amb mínimes modificacio
 
 
 | Servidor Vanilla      |               |
-|:----------------------|--------------|
+| ----------------------|---------------|
 | Versió Minecraft      | 1.21.1        |
 | Tipus accés           | Semi-públic   |
 | Mods                  | Opcionals     |
