@@ -12,7 +12,7 @@ El servidor Vanilla és un servidor normal de Minecraft amb mínimes modificacio
 
 
 | Servidor Vanilla      |               |
-| ----------------------|---------------|
+| :---------------------|:--------------|
 | Versió Minecraft      | 1.21.1        |
 | Tipus accés           | Semi-públic   |
 | Mods                  | Opcionals     |
@@ -32,7 +32,7 @@ El servidor utilitza el modloader Fabric. Utilitzem mods per gestionar còpies d
 <summary>Llistat mods opcionals</summary>
 
 | Nom mod               | Versió        |
-|:----------------------|--------------|
+|:----------------------|:--------------|
 | Do a Barrel Roll      | 3.7.2         |
 | Fish on the line      | 3.4           |
 | Inventory Totem       | 3.3           |
