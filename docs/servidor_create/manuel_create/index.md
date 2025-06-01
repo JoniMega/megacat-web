@@ -1,5 +1,6 @@
 ---
 title: Instal·lació Mods
+parent: Servidor Create
 nav_order: 3.2
 ---
 
