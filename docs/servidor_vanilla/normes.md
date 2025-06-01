@@ -8,6 +8,7 @@ Actiu
 {: .label .label-green .float-right}
 # Normes Servidor Vanilla 
 
+---
 Les infraccions de les normes poden implicar tota mena de càstigs depenent del criteri del Moderador.
 
 ## 1- Llengua catalana

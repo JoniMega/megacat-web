@@ -7,8 +7,8 @@ Inactiu
 {: .label .label-red .float-right }
 # Servidor Experimental
 
+---
 Aquest servidor es va crear experimentalment el 6 d'abril del 2025 i va estar actiu durant uns 5 dies. _Actualment el servidor està inactiu, sense expectatives de tornar-lo a engegar._
-
 
 La snapshot **25w14craftmine** de Minecraft es va publicar l'1 d'abril de 2025 com a actualització especial del Dia dels Innocents per a la versió Java del joc. Aquesta versió transforma l'experiència habitual en una aventura roguelike, centrada en la creació i exploració de mines personalitzades plenes de desafiaments i recompenses. 
 

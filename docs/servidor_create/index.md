@@ -7,6 +7,7 @@ En desenvolupament
 {: .label .label-yellow .float-right }
 # Servidor Create
 
+---
 A veure com podem solucionar aquests problemes
 
 
