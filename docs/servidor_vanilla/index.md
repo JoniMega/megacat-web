@@ -26,13 +26,15 @@ El servidor Vanilla és un servidor normal de Minecraft amb mínimes modificacio
 
 ## Mods servidor
 
-El servidor utilitza el modloader Fabric. Utilitzem mods per gestionar còpies de seguretat, control de qui ha modificat què i generar estructures noves. No fa falta cap mod per jugar al servidor, però hi han mods que requereixen que estigui també al servidor tot i ser totalment opcionals
+El servidor utilitza el modloader Fabric. Utilitzem mods per gestionar còpies de seguretat, control de qui ha modificat què i generar estructures noves. No fa falta cap mod per jugar al servidor, però hi han mods que requereixen que estigui també al servidor tot i ser totalment opcionals que milloren la qualitat de l'experiència del joc.
 
 <details markdown="block">
 <summary>Llistat mods opcionals</summary>
 
 | Nom mod               | Versió        |
 |:----------------------|:--------------|
+| Just Enough Items     | 19.8.2.99     |
+| Journey Map           | 6.0.0-beta.20 |
 | Do a Barrel Roll      | 3.7.2         |
 | Fish on the line      | 3.4           |
 | Inventory Totem       | 3.3           |

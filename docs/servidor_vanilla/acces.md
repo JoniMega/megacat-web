@@ -14,4 +14,5 @@ No necessites pas cap mod. Per poder-hi accedir només necessites col·locar l'a
 {: .highlight }
     vanilla.megacat.cat
 {: .fs-10}
+
 ![](entrada_servidor.png)
