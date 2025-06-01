@@ -24,7 +24,7 @@ Tenim dos manuals per intal·lar els mods. Depenent de la experiència que tingu
 
 | Manuals                | Dificultat    |              |
 | :----------------------|:--------------|--------------|
-| Instal·lació Manual    | Avançat       | [Difícil](instalacio_dificil.md){: .btn .btn-green }   |
+| Instal·lació Manual    | Avançat       | [Difícil](instalacio_dificil.md){: .btn .btn-red }   |
 | Instal·lació amb Prism | Simple        | [Fàcil](instalacio_facil.md){: .btn .btn-green }     |
 
 
