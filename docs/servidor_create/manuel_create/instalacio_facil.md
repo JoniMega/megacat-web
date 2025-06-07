@@ -7,7 +7,13 @@ nav_order: 3.2.1
 # Instal·lació Mods Fàcil
 
 ---
-En construcció
+
+
+## Opció 1 - Prism Launcher
+
+[Descàrrega](https://prismlauncher.org/download/)
+
+![](img/prism_1.png)
 
 
 
