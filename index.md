@@ -16,7 +16,7 @@ MegaCat ofereix servidors públics i semipúblics per la comunitat catalana, on 
 Aquí trobaràs tota la informació de com accedir als diversos servidors de MegaCat i les instruccions de com instal·lar els mods necessaris o opcionals. 
 
 
-![](assets/images/banner_minecraft.jpg)
+![](assets/images/banner_minecraft_arrodonit.png)
 
 
 ## Llistat de Servidors MegaCat
