@@ -9,12 +9,15 @@ permalink: /
 {: .no_toc }
 ---
 
-![](assets/images/banner_minecraft.jpg)
 
 Benvingut a la pàgina web de MegaCat. 
 
 MegaCat ofereix servidors públics i semipúblics per la comunitat catalana, on la llengua principal d'ús usual als servidors és el Català.
 Aquí trobaràs tota la informació de com accedir als diversos servidors de MegaCat i les instruccions de com instal·lar els mods necessaris o opcionals. 
+
+
+![](assets/images/banner_minecraft.jpg)
+
 
 ## Llistat de Servidors MegaCat
 
