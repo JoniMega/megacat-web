@@ -5,10 +5,6 @@ nav_order: 1
 description: "Pàgina Principal"
 permalink: /
 ---
-# MegaCat
-{: .no_toc }
----
-
 
 Benvingut a la pàgina web de MegaCat. 
 
