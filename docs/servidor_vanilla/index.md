@@ -20,9 +20,9 @@ El servidor Vanilla és un servidor normal de Minecraft amb mínimes modificacio
 [Normes](normes.md){: .btn .btn-green } [Com accedir al Servidor](acces.md){: .btn .btn-blue } [Mapaweb](mapaweb.md){: .btn .btn-blue }
 
 ## Història
-El servidor ha estat actiu des de l'Agost del 2024 fins el Juliol del 2025. El tancament és degut a la inactivitat dels jugadors durant els últims 3 mesos
+El servidor ha estat actiu des de l'Agost del 2024 fins el Juliol del 2025. El tancament és degut a la inactivitat dels jugadors durant els últims 3 mesos, sense expectatives de cap retorn.
 
-## Modificacions actives
+## Modificacions
 
 - **Estructures Noves:** La generació del món és normal, però podràs trobar estructures noves. Les extructures generalment són decoratives i amb algun cofre amb recursos.
 - **Mort indulgent:** La mort perds els objectes i experiència, però mantens l'armadura i eines que tinguis a la barra d'inventari de mà. 
