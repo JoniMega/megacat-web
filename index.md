@@ -34,5 +34,5 @@ Llistat de servidors catalans externs. MegaCat no gestiona cap d'ells, però vol
 | Servidor                                                    | Versió         | Mods | Actiu |
 |:------------------------------------------------------------|:---------------|:-----|:------|
 | [CubeCat](https://www.cubecat.cat)                          | 1.21.3         |  ❌  |  ✅   |
-| [Terracraft](https://www.cubecat.cat)                       | 1.19.1         |  ❌  |  ❌   |
-| [Torneig Extreme](https://www.torneigextreme.cat)            | 1.20.1         |  ❌  |  ✅   |
+| [Terracraft](https://terracraft.cat/)                       | 1.21.8         |  ❌  |  ✅   |
+| [Torneig Extreme](https://www.torneigextreme.cat)           | 1.20.1         |  ❌  |  ✅   |
