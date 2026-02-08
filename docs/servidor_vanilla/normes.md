@@ -4,8 +4,8 @@ parent: Servidor Vanilla
 nav_order: 2.1
 ---
 
-Actiu 
-{: .label .label-green .float-right}
+Inactiu 
+{: .label .label-red .float-right }
 # Normes Servidor Vanilla 
 
 ---
