@@ -24,7 +24,8 @@ La categoria de Mods defineix si el servidor requereix tenir mods per tal accedi
 | Servidor                                                    | Versió         | Mods | Actiu |
 |:------------------------------------------------------------|:---------------|:-----|:------|
 | [Vanilla]({{site.baseurl}}/docs/servidor_vanilla/)          | 1.21.1         |  ❌  |  ❌   |
-| [Create]({{site.baseurl}}/docs/servidor_create/)            | 1.21.1         |  ✅  |  ❌   |
+| [Create]({{site.baseurl}}/docs/servidor_create/)            | 1.21.1         |  ✅  |  ⏸️   |
+| [Immersive]({{site.baseurl}}/docs/servidor_immersive/)         | 1.20.1         |  ✅  |  ⏩   |
 | [CraftMine]({{site.baseurl}}/docs/servidor_craftmine/)      | 25w14craftmine |  ❌  |  ❌   |
 
 ## Llistat de Servidors Catalans externs
@@ -33,6 +34,6 @@ Llistat de servidors catalans externs. MegaCat no gestiona cap d'ells, però vol
 
 | Servidor                                                    | Versió         | Mods | Actiu |
 |:------------------------------------------------------------|:---------------|:-----|:------|
-| [CubeCat](https://www.cubecat.cat)                          | 1.21.3         |  ❌  |  ✅   |
+| [CubeCat](https://cubecat.cat)                              | 1.21.3         |  ❌  |  ✅   |
 | [Terracraft](https://terracraft.cat/)                       | 1.21.8         |  ❌  |  ✅   |
 | [Torneig Extreme](https://www.torneigextreme.cat)           | 1.20.1         |  ❌  |  ✅   |
