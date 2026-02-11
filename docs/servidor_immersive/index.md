@@ -8,10 +8,6 @@ En desenvolupament
 # Servidor Immersive
 
 ---
-A veure com podem solucionar aquests problemes
-
-
-En construcció
 
 
 ## Descarrega

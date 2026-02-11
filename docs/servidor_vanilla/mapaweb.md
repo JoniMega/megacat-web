@@ -11,8 +11,6 @@ El Mapaweb és una eina on es pot veure el mapa del servidor Vanilla. S'actualit
 
 L'infern i la fi estan desactivats per disminuir la quantitat de memòria requerida del servidor.
 
-[Enllaç cap al mapa](http://vanilla.megacat.cat){: .btn .flex-justify-between}
-
 ![](foto_mapaweb.png)
 
 
