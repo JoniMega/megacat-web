@@ -44,7 +44,7 @@ Cerca comunitats catalanes, creadors de contingut i notícies de videojocs amb C
 <iframe
   src="https://www.clec.cat/embed/"
   width="100%"
-  height="600"
-  style="border:1px solid #ebebeb;border-radius:8px;"
+  height="220"
+  style="border:1px solid #b3b3b3;border-radius:8px;"
   loading="lazy"
   title="Cerca Clec.cat"></iframe>
