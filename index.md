@@ -42,7 +42,7 @@ Llistat de servidors catalans externs. MegaCat no gestiona cap d'ells, però vol
 Cerca comunitats catalanes, creadors de contingut i notícies de videojocs amb Clec.cat.
 
 <iframe
-  src="https://clec.cat/embed/"
+  src="https://www.clec.cat/embed/"
   width="100%"
   height="600"
   style="border:1px solid #ebebeb;border-radius:8px;"
