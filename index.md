@@ -37,3 +37,14 @@ Llistat de servidors catalans externs. MegaCat no gestiona cap d'ells, però vol
 | [CubeCat](https://cubecat.cat)                              | 1.21.10        |  ❌  |  ✅   |
 | [Terracraft](https://terracraft.cat/)                       | 1.21.10        |  ✅  |  ✅   |
 | [Torneig Extreme](https://www.torneigextreme.cat)           | 1.20.1         |  ❌  |  ⏸️   |
+
+
+Cerca comunitats catalanes, creadors de contingut i notícies de videojocs amb Clec.cat.
+
+<iframe
+  src="https://clec.cat/embed/"
+  width="100%"
+  height="600"
+  style="border:1px solid #ebebeb;border-radius:8px;"
+  loading="lazy"
+  title="Cerca Clec.cat"></iframe>
